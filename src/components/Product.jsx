@@ -39,7 +39,6 @@ const Product = () => {
 
   const ShowProduct = () => {
     const addProductToCart = () => {
-      // Implement logic to add product to cart locally
       console.log("Product added to cart:", product);
     };
 
